@@ -1,0 +1,211 @@
+{
+    "spec_version": "v1.6",
+    "identifier": "Mekaspaceprogram",
+    "name": "Meka_space_program",
+    "abstract": "Mekaspaceprogram is a modpack for ksp 1.12.5 ",
+    "author": "YelowPikmin",
+    "version": "2025.03.13.06.19.43",
+    "ksp_version_min": "1.10.0",
+    "ksp_version_max": "1.12.5",
+    "license": "unrestricted",
+    "depends": [
+        {
+            "name": "Achievements",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterLoadSaveGame",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "BetterTimeWarpCont",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ChattererExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityCategoryKit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CommunityTechTree",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ContractConfigurator",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CraftImport",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Deferred",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DockingPortAlignmentIndicator",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DogeCoinFlag",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-HR",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FarFutureTechnologies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FilterExtensions",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "FreeIva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HeatControl",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HideEmptyTechNodes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ImprovedTreeEnginePlacement",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "InterstellarFuelSwitch",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "InterstellarTechnologies",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "JanitorsCloset",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSP2PreAlphaStyleNavBall",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSPInterstellarExtended",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KWRocketryRebalanced",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureElectrical",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFuturePropulsion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NewTantaresLV",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PatchManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PhotonSailor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralFairings",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ProceduralParts",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RasterPropMonitor",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RasterPropMonitor-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "RestockWaterfallExpansion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Reviva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "SCANsat",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Science-Full-Transmit",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ShuttleLiftingBodyCormorantAeronology",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ThroughTheEyesOfaKerbal",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Toolbar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScale",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScale-Redist",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleCompanion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallExtensions",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "WaterfallRestock",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ZTheme",
+            "suppress_recommendations": true
+        }
+    ],
+    "release_date": "2025-03-13T18:19:43.3988043Z",
+    "kind": "metapackage"
+}
