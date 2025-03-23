@@ -1,18 +1,14 @@
 {
     "spec_version": "v1.6",
-    "identifier": "Mekaspaceprogram",
-    "name": "Meka_space_program",
-    "abstract": "Mekaspaceprogram is a modpack for ksp 1.12.5 ",
-    "author": "YelowPikmin",
-    "version": "2025.03.13.06.19.43",
-    "ksp_version_min": "1.10.0",
-    "ksp_version_max": "1.12.5",
-    "license": "unrestricted",
+    "identifier": "MekaSpaceProgram",
+    "name": "MekaSpaceProgram1.1",
+    "abstract": "Meka Space Program Modpack",
+    "author": "Pikmin",
+    "version": "2025.03.23.06.10.40",
+    "ksp_version_min": "1.10",
+    "ksp_version_max": "1.12",
+    "license": "open-source",
     "depends": [
-        {
-            "name": "Achievements",
-            "suppress_recommendations": true
-        },
         {
             "name": "BetterLoadSaveGame",
             "suppress_recommendations": true
@@ -42,6 +38,18 @@
             "suppress_recommendations": true
         },
         {
+            "name": "CryoEngines",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "CryoEngines-NFAero",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "DE-IVAExtension",
+            "suppress_recommendations": true
+        },
+        {
             "name": "Deferred",
             "suppress_recommendations": true
         },
@@ -51,6 +59,10 @@
         },
         {
             "name": "DogeCoinFlag",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "EditorExtensionsRedux",
             "suppress_recommendations": true
         },
         {
@@ -67,6 +79,14 @@
         },
         {
             "name": "FreeIva",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Hangar",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "HangerExtenderExtended",
             "suppress_recommendations": true
         },
         {
@@ -94,6 +114,22 @@
             "suppress_recommendations": true
         },
         {
+            "name": "KerbalJointReinforcementNext",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Knes",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSAIVAUpgrade",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "KSCSwitcher",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KSP2PreAlphaStyleNavBall",
             "suppress_recommendations": true
         },
@@ -110,7 +146,15 @@
             "suppress_recommendations": true
         },
         {
+            "name": "NearFutureExploration",
+            "suppress_recommendations": true
+        },
+        {
             "name": "NearFuturePropulsion",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "NearFutureSpacecraft",
             "suppress_recommendations": true
         },
         {
@@ -119,6 +163,10 @@
         },
         {
             "name": "PatchManager",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "PersistentRotationUpgraded",
             "suppress_recommendations": true
         },
         {
@@ -139,6 +187,10 @@
         },
         {
             "name": "RasterPropMonitor-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ReStockPlus",
             "suppress_recommendations": true
         },
         {
@@ -170,6 +222,18 @@
             "suppress_recommendations": true
         },
         {
+            "name": "StarshipExpansionProject",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StarshipExpansionProjectIVA",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "StarshipLaunchExpansion",
+            "suppress_recommendations": true
+        },
+        {
             "name": "ThroughTheEyesOfaKerbal",
             "suppress_recommendations": true
         },
@@ -182,15 +246,23 @@
             "suppress_recommendations": true
         },
         {
-            "name": "TweakScale",
+            "name": "TundraExploration",
             "suppress_recommendations": true
         },
         {
-            "name": "TweakScale-Redist",
+            "name": "TundraTechnologies",
             "suppress_recommendations": true
         },
         {
-            "name": "TweakScaleCompanion",
+            "name": "TweakScaleRescaled",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakScaleRescaled-Redist",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TweakscaleUnlimited",
             "suppress_recommendations": true
         },
         {
@@ -206,6 +278,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2025-03-13T18:19:43.3988043Z",
+    "release_date": "2025-03-23T18:10:40.3703269Z",
     "kind": "metapackage"
 }
