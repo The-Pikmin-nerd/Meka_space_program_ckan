@@ -1,283 +1,276 @@
 {
     "spec_version": "v1.6",
-    "identifier": "MekaSpaceProgram",
-    "name": "MekaSpaceProgram1.1",
-    "abstract": "Meka Space Program Modpack",
-    "author": "Pikmin",
-    "version": "2025.03.23.06.10.40",
-    "ksp_version_min": "1.10",
+    "identifier": "Meka-space-program",
+    "name": "Meka space program by ThePikminNerd",
+    "abstract": "C00L",
+    "author": "LePikminNerd",
+    "version": "2025.04.25.04.45.49",
+    "ksp_version_min": "1.8",
     "ksp_version_max": "1.12",
-    "license": "open-source",
+    "license": "CC0",
     "depends": [
         {
-            "name": "BetterLoadSaveGame",
-            "suppress_recommendations": true
+            "name": "RasterPropMonitor-Core"
         },
         {
-            "name": "BetterTimeWarpCont",
-            "suppress_recommendations": true
+            "name": "TweakScaleRescaled-Redist"
         },
         {
-            "name": "ChattererExtended",
-            "suppress_recommendations": true
+            "name": "CommunityTechTree"
         },
         {
-            "name": "CommunityCategoryKit",
-            "suppress_recommendations": true
+            "name": "ProceduralParts"
         },
         {
-            "name": "CommunityTechTree",
-            "suppress_recommendations": true
+            "name": "TweakScaleRescaled"
         },
         {
-            "name": "ContractConfigurator",
-            "suppress_recommendations": true
+            "name": "CommunityCategoryKit"
         },
         {
-            "name": "CraftImport",
-            "suppress_recommendations": true
+            "name": "CryoEngines"
         },
         {
-            "name": "CryoEngines",
-            "suppress_recommendations": true
+            "name": "FilterExtensions"
         },
         {
-            "name": "CryoEngines-NFAero",
-            "suppress_recommendations": true
+            "name": "FreeIva"
         },
         {
-            "name": "DE-IVAExtension",
-            "suppress_recommendations": true
+            "name": "KSPInterstellarExtended"
         },
         {
-            "name": "Deferred",
-            "suppress_recommendations": true
+            "name": "NearFutureElectrical"
         },
         {
-            "name": "DockingPortAlignmentIndicator",
-            "suppress_recommendations": true
+            "name": "PatchManager"
         },
         {
-            "name": "DogeCoinFlag",
-            "suppress_recommendations": true
+            "name": "ProceduralFairings"
         },
         {
-            "name": "EditorExtensionsRedux",
-            "suppress_recommendations": true
+            "name": "MainSailorTextures-Essentials"
         },
         {
-            "name": "EnvironmentalVisualEnhancements-HR",
-            "suppress_recommendations": true
+            "name": "Reviva"
         },
         {
-            "name": "FarFutureTechnologies",
-            "suppress_recommendations": true
+            "name": "Scatterer-sunflare"
         },
         {
-            "name": "FilterExtensions",
-            "suppress_recommendations": true
+            "name": "StarshipExpansionProject"
         },
         {
-            "name": "FreeIva",
-            "suppress_recommendations": true
+            "name": "BetterLoadSaveGame"
         },
         {
-            "name": "Hangar",
-            "suppress_recommendations": true
+            "name": "BetterTimeWarpCont"
         },
         {
-            "name": "HangerExtenderExtended",
-            "suppress_recommendations": true
+            "name": "ChattererExtended"
         },
         {
-            "name": "HeatControl",
-            "suppress_recommendations": true
+            "name": "ConfigurableContainers"
         },
         {
-            "name": "HideEmptyTechNodes",
-            "suppress_recommendations": true
+            "name": "ContractConfigurator"
         },
         {
-            "name": "ImprovedTreeEnginePlacement",
-            "suppress_recommendations": true
+            "name": "CraftImport"
         },
         {
-            "name": "InterstellarFuelSwitch",
-            "suppress_recommendations": true
+            "name": "CryoEngines-NFAero"
         },
         {
-            "name": "InterstellarTechnologies",
-            "suppress_recommendations": true
+            "name": "DE-IVAExtension"
         },
         {
-            "name": "JanitorsCloset",
-            "suppress_recommendations": true
+            "name": "DeepFreeze"
         },
         {
-            "name": "KerbalJointReinforcementNext",
-            "suppress_recommendations": true
+            "name": "Deferred"
         },
         {
-            "name": "Knes",
-            "suppress_recommendations": true
+            "name": "DockingPortAlignmentIndicator"
         },
         {
-            "name": "KSAIVAUpgrade",
-            "suppress_recommendations": true
+            "name": "DogeCoinFlag"
         },
         {
-            "name": "KSCSwitcher",
-            "suppress_recommendations": true
+            "name": "EditorExtensionsRedux"
         },
         {
-            "name": "KSP2PreAlphaStyleNavBall",
-            "suppress_recommendations": true
+            "name": "EnvironmentalVisualEnhancements-HR"
         },
         {
-            "name": "KSPInterstellarExtended",
-            "suppress_recommendations": true
+            "name": "FarFutureTechnologies"
         },
         {
-            "name": "KWRocketryRebalanced",
-            "suppress_recommendations": true
+            "name": "FMRSContinued"
         },
         {
-            "name": "NearFutureElectrical",
-            "suppress_recommendations": true
+            "name": "GroundConstruction"
         },
         {
-            "name": "NearFutureExploration",
-            "suppress_recommendations": true
+            "name": "Hangar"
         },
         {
-            "name": "NearFuturePropulsion",
-            "suppress_recommendations": true
+            "name": "HangerExtenderExtended"
         },
         {
-            "name": "NearFutureSpacecraft",
-            "suppress_recommendations": true
+            "name": "HeatControl"
         },
         {
-            "name": "NewTantaresLV",
-            "suppress_recommendations": true
+            "name": "HideEmptyTechNodes"
         },
         {
-            "name": "PatchManager",
-            "suppress_recommendations": true
+            "name": "ImprovedTreeEnginePlacement"
         },
         {
-            "name": "PersistentRotationUpgraded",
-            "suppress_recommendations": true
+            "name": "InterstellarFuelSwitch"
         },
         {
-            "name": "PhotonSailor",
-            "suppress_recommendations": true
+            "name": "InterstellarTechnologies"
         },
         {
-            "name": "ProceduralFairings",
-            "suppress_recommendations": true
+            "name": "JSIAdvancedTransparentPods"
         },
         {
-            "name": "ProceduralParts",
-            "suppress_recommendations": true
+            "name": "KerbalJointReinforcementNext"
         },
         {
-            "name": "RasterPropMonitor",
-            "suppress_recommendations": true
+            "name": "KerbalKonstructs"
         },
         {
-            "name": "RasterPropMonitor-Core",
-            "suppress_recommendations": true
+            "name": "KerbalPlanetaryBaseSystems"
         },
         {
-            "name": "ReStockPlus",
-            "suppress_recommendations": true
+            "name": "Knes"
         },
         {
-            "name": "RestockWaterfallExpansion",
-            "suppress_recommendations": true
+            "name": "KSAIVAUpgrade"
         },
         {
-            "name": "Reviva",
-            "suppress_recommendations": true
+            "name": "KSCSwitcher"
         },
         {
-            "name": "SCANsat",
-            "suppress_recommendations": true
+            "name": "KSP2PreAlphaStyleNavBall"
         },
         {
-            "name": "Scatterer",
-            "suppress_recommendations": true
+            "name": "KWRocketryRebalanced"
         },
         {
-            "name": "Scatterer-sunflare",
-            "suppress_recommendations": true
+            "name": "MechJeb2"
         },
         {
-            "name": "Science-Full-Transmit",
-            "suppress_recommendations": true
+            "name": "MEVHeavyIndustries"
         },
         {
-            "name": "ShuttleLiftingBodyCormorantAeronology",
-            "suppress_recommendations": true
+            "name": "NearFutureConstruction"
         },
         {
-            "name": "StarshipExpansionProject",
-            "suppress_recommendations": true
+            "name": "NearFutureElectrical-DecayingRTGs"
         },
         {
-            "name": "StarshipExpansionProjectIVA",
-            "suppress_recommendations": true
+            "name": "NearFutureExploration"
         },
         {
-            "name": "StarshipLaunchExpansion",
-            "suppress_recommendations": true
+            "name": "NearFuturePropulsion"
         },
         {
-            "name": "ThroughTheEyesOfaKerbal",
-            "suppress_recommendations": true
+            "name": "NearFutureSolar"
         },
         {
-            "name": "Toolbar",
-            "suppress_recommendations": true
+            "name": "NearFutureSpacecraft"
         },
         {
-            "name": "TUFX",
-            "suppress_recommendations": true
+            "name": "OrbitalTug"
         },
         {
-            "name": "TundraExploration",
-            "suppress_recommendations": true
+            "name": "PersistentRotationUpgraded"
         },
         {
-            "name": "TundraTechnologies",
-            "suppress_recommendations": true
+            "name": "PhotonSailor"
         },
         {
-            "name": "TweakScaleRescaled",
-            "suppress_recommendations": true
+            "name": "ProbeControlRoomRecontrolled"
         },
         {
-            "name": "TweakScaleRescaled-Redist",
-            "suppress_recommendations": true
+            "name": "ProceduralFairings-ForEverything"
         },
         {
-            "name": "TweakscaleUnlimited",
-            "suppress_recommendations": true
+            "name": "HazardTanksTextures"
         },
         {
-            "name": "WaterfallExtensions",
-            "suppress_recommendations": true
+            "name": "MainSailorTextures-Fairings"
         },
         {
-            "name": "WaterfallRestock",
-            "suppress_recommendations": true
+            "name": "RasterPropMonitor"
         },
         {
-            "name": "ZTheme",
-            "suppress_recommendations": true
+            "name": "SCANsat"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Science-Full-Transmit"
+        },
+        {
+            "name": "ShuttleLiftingBodyCormorantAeronology"
+        },
+        {
+            "name": "Singularity"
+        },
+        {
+            "name": "StarshipExpansionProjectIVA"
+        },
+        {
+            "name": "StarshipLaunchExpansion"
+        },
+        {
+            "name": "StockWaterfallEffects"
+        },
+        {
+            "name": "NewTantaresLV"
+        },
+        {
+            "name": "JanitorsCloset"
+        },
+        {
+            "name": "ThroughTheEyesOfaKerbal"
+        },
+        {
+            "name": "Toolbar"
+        },
+        {
+            "name": "Trajectories"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "TundraExploration"
+        },
+        {
+            "name": "TundraTechnologies"
+        },
+        {
+            "name": "TweakScaleRescaled-SafetyNet"
+        },
+        {
+            "name": "TweakscaleUnlimited"
+        },
+        {
+            "name": "WaterfallExtensions"
+        },
+        {
+            "name": "WaypointManager"
+        },
+        {
+            "name": "ZTheme"
         }
     ],
-    "release_date": "2025-03-23T18:10:40.3703269Z",
+    "release_date": "2025-04-25T16:45:49.2913154Z",
     "kind": "metapackage"
 }
